@@ -1,7 +1,5 @@
 # Badger Audit
 
-# Size Audit
-
 Audit findings are submitted to this repo.
 
 Unless otherwise discussed, this repo will be made public after audit completion, sponsor review, judging, and issue mitigation window.
