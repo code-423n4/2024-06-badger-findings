@@ -1,0 +1,8 @@
+{
+  "contest": 401,
+  "handle": "0xbranded",
+  "risk": "3",
+  "title": "Incorrect collateral calculation",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/8"
+}
