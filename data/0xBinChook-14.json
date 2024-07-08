@@ -1,0 +1,8 @@
+{
+  "contest": 401,
+  "handle": "0xBinChook",
+  "risk": "2",
+  "title": "Staking ETH incorrectly assumes revert bubbling",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/14"
+}
