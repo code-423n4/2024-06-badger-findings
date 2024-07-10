@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "Greed",
+  "risk": "2",
+  "title": "Deposit success on Lido is not checked which could lead to unexpected behavior",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/28",
+  "originalIssueId": 120,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/120"
+}
