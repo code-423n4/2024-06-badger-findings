@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "DrCaligari",
+  "risk": "3",
+  "title": "Unsafe Ether Deposit Using Low-Level call in _depositRawEthIntoLido function",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/24",
+  "originalIssueId": 145,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/145"
+}
