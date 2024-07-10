@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "Drynooo",
+  "risk": "3",
+  "title": "Wrong judgment causes the user's check to not work",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/26",
+  "originalIssueId": 126,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/126"
+}
