@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "DemoreX",
+  "risk": "3",
+  "title": "Unchecked .call() Low-Level Function Result",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/35",
+  "originalIssueId": 107,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/107"
+}
