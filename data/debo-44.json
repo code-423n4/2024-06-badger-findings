@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "debo",
+  "risk": "2",
+  "title": "Unchecked return value on call in the _convertRawEthToStETH function on the ZapRouterBase contract",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/44",
+  "originalIssueId": 17,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/17"
+}
