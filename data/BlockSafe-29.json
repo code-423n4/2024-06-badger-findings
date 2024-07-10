@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "BlockSafe",
+  "risk": "2",
+  "title": "Unchecked ETH Transfer in _depositRawEthIntoLido Function",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/29",
+  "originalIssueId": 118,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/118"
+}
