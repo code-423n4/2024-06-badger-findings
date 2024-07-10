@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "Stormreckson",
+  "risk": "2",
+  "title": "ETH Lockup Due to Lack of Error Handling in EbtcLeverageZapRouter Contract",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/33",
+  "originalIssueId": 110,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/110"
+}
