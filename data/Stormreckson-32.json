@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "Stormreckson",
+  "risk": "2",
+  "title": "Failure in ETH to stETH Conversion Without User Feedback in EbtcLeverageZapRouter Contract",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/32",
+  "originalIssueId": 111,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/111"
+}
