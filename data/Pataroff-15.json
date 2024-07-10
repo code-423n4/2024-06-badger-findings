@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "Pataroff",
+  "risk": "2",
+  "title": "`LeverageMacroBase::_doOperation` will revert if `willSweep` is set to true",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/15",
+  "originalIssueId": 146,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/146"
+}
