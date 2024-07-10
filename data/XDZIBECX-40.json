@@ -1,0 +1,10 @@
+{
+  "contest": 401,
+  "handle": "XDZIBECX",
+  "risk": "2",
+  "title": "Low-level call return value is not checked ",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2024-06-badger-findings/issues/40",
+  "originalIssueId": 83,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-badger-validation/issues/83"
+}
